@@ -1,9 +1,4 @@
-# Joan Rodas Cusidó
-
 <div align="center">
-  <br>
-  <br>
-  <br>
   <br>
     <a href="https://sirvelia.com/">
       <img width="200" height="200" src="https://avatars.githubusercontent.com/u/47475754?v=4" />
