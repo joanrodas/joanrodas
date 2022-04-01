@@ -18,10 +18,13 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=22242f&color=8892bf" alt="PHP" title="PHP" />
-    <img src="https://img.shields.io/badge/JS-informational?style=for-the-badge&logo=javascript&logoColor=fcdc00&color=ec008c" alt="JavaScript" title="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=ffe160&color=4483b5" alt="Python" title="Python" />
     <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=61dafb&color=20232a" alt="React" title="React" />
+    <img src="https://img.shields.io/badge/JS-informational?style=for-the-badge&logo=javascript&logoColor=fcdc00&color=ec008c" alt="JavaScript" title="JavaScript" /><img src="https://img.shields.io/badge/Tailwind CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&color=0b1224" alt="Tailwind" title="React" />
     <img src="https://img.shields.io/badge/Alpine.js-informational?style=for-the-badge&logo=alpine.js&logoColor=77c1d2&color=2d3441" alt="Alpine.js" title="Alpine.js" />
+  </p>
+  <p align="center">
+   <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=ffe160&color=4483b5" alt="Python" title="Python" />
+    <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnubash&logoColor=44a34f&color=3c4548" alt="Bash" title="Bash" />
   </p>
 </div>
 
